@@ -820,6 +820,11 @@ a.back-to-top:hover, a.back-to-top:focus {
   position: relative;
 }
 
+.portfolio-txt {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
 .portfolio-img img {
   width: 100%;
 }
@@ -830,6 +835,7 @@ a.back-to-top:hover, a.back-to-top:focus {
   background: #fff;
   position: relative;
 }
+
 
 .shot-item img {
   width: 100%;
