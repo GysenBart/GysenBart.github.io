@@ -77,7 +77,7 @@
 			},
 
 			load: {
-				filter: 'all',
+				//filter: 'all',		// To load every portfolio item from start uncomment
 				sort: false
 			},
 
