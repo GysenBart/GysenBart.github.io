@@ -334,10 +334,11 @@ a.back-to-top:hover, a.back-to-top:focus {
   bottom: 10px;
 }
 
+
 .counter-section {
   background: url(../img/background/bg-1.jpg);
   background-size: cover; /* Added */
-  /*background-position: center;*/
+  background-position: center;
   overflow: hidden;
   position: relative;
 }
