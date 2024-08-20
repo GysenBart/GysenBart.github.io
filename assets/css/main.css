@@ -336,6 +336,8 @@ a.back-to-top:hover, a.back-to-top:focus {
 
 .counter-section {
   background: url(../img/background/bg-1.jpg);
+  background-size: cover; /* Added */
+  background-position: center;
   overflow: hidden;
   position: relative;
 }
